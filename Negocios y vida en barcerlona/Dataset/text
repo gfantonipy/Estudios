@@ -1,1 +1,11 @@
 
+1.-BCN_Neighbourhood_data ( Webscrapting Wikipedia https://es.wikipedia.org/wiki/Distritos_de_Barcelona  22.04.2021, Cordinates Geocoder.Nominatim + Google Maps)
+2.-Neighbourhood_rent_per_person_2017 (Elaboración propia a partir de los datos de renta y de población del Atlas de distribución de renta de los hogares. Instituto Nacional de Estadística.
+    Ajuntament de Barcelona. Departament d'Estadística i Difusió de Dades)
+3.-Borough_unemployment_percentage_2020_2021 (Departament de Treball, Afers Socials i Famílies. Generalitat de Catalunya. Elaboración del Departament d'Estadística. Ajuntament de Barcelona. 4/2021)
+4.-Borough_unemployment_percentage_by_total_2020_2021 (Departament de Treball, Afers Socials i Famílies. Generalitat de Catalunya. Elaboración del Departament d'Estadística. Ajuntament de Barcelona. 4/2021)
+5.-Borough_unemployment_population_2020_2021  (Departament de Treball, Afers Socials i Famílies. Generalitat de Catalunya. Elaboración del Departament d'Estadística. Ajuntament de Barcelona. 4/2021)
+6.-Neighbourhood_population ( Fuente: Institut d'Estadística de Catalunya. Instituto Nacional de Estadística. INE.2019)
+7.-Neighbourhood_unemployment_percentage_2020_2021 (Departament de Treball, Afers Socials i Famílies. Generalitat de Catalunya. Elaboración del Departament d'Estadística. Ajuntament de Barcelona. 4/2021)
+8.-Neighbourhood_unemployment_population_2020_2021 (Departament de Treball, Afers Socials i Famílies. Generalitat de Catalunya. Elaboración del Departament d'Estadística. Ajuntament de Barcelona. 4/2021)
+9.-RFD_Neighbourhood ( Ajuntament de Barcelona. Oficina Municipal de Dades.2017)
