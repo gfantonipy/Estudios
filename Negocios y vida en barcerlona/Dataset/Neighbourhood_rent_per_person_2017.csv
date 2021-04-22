@@ -1,0 +1,75 @@
+﻿NºBorough;Borough;Nº Neighbourhood;Neighbourhood;2015;2016;2017
+0;Barcelona;0;Barcelona;14951;15389;15755
+1;Ciutat Vella;1;El Raval;8316;8547;8988
+1;Ciutat Vella;2;Barrio Gótico;11327;11496;11993
+1;Ciutat Vella;3;La Barceloneta;10829;11135;11517
+1;Ciutat Vella;4;Sant Pere, Santa Caterina i la Ribera;11490;12039;12625
+2;Eixample;5;El Fort Pienc;15517;15859;16364
+2;Eixample;6;Sagrada Familia;15345;15648;15971
+2;Eixample;7;La Derecha del Ensanche;19694;20483;20896
+2;Eixample;8;L'Antiga Esquerra de l'Eixample;18171;18539;19236
+2;Eixample;9;La Nova Esquerra de l'Eixample;17011;17359;17847
+2;Eixample;10;Sant Antoni;15109;15541;15991
+3;Sants-Montjuïc;11;Poble Sec;10935;11190;11622
+3;Sants-Montjuïc;12;La Marina del Prat Vermell;9000;9405;9913
+3;Sants-Montjuïc;13;La Marina de Port;11526;11827;12028
+3;Sants-Montjuïc;14;La Font de la Guatlla;13931;14148;14690
+3;Sants-Montjuïc;15;Hostafrancs;13241;13608;13941
+3;Sants-Montjuïc;16;La Bordeta;13346;13730;14136
+3;Sants-Montjuïc;17;Sants-Badal;13389;13439;13717
+3;Sants-Montjuïc;18;Sants;14612;14962;15323
+4;Les Corts;19;Les Corts;19763;20911;21214
+4;Les Corts;20;La Maternitat i Sant Ramon;17884;18975;19221
+4;Les Corts;21;Pedralbes;26757;28233;28391
+5;Sarrià-Sant Gervasi;22;Vallvidrera, el Tibidabo i les Planes;18041;19803;19618
+5;Sarrià-Sant Gervasi;23;Sarrià;23498;24285;25227
+5;Sarrià-Sant Gervasi;24;Las Tres Torres;27809;29158;29684
+5;Sarrià-Sant Gervasi;25;Sant Gervasi-Bonanova;23980;25092;26200
+5;Sarrià-Sant Gervasi;26;Sant Gervasi-Galvany;24785;25760;26675
+5;Sarrià-Sant Gervasi;27;El Putxet i Farró;20199;21289;21779
+6;Gràcia;28;Vallcarca i els Penitents;17895;18029;18096
+6;Gràcia;29;El Coll;13668;13884;14326
+6;Gràcia;30;La Salut;16987;17182;17818
+6;Gràcia;31;Vila de Gràcia;15335;15754;16311
+6;Gràcia;32;Camp d'en Grassot i Gràcia Nova;16774;17226;17575
+7;Horta - Guinardó;33;Baix Guinardó;14813;15058;15254
+7;Horta - Guinardó;34;Can Baró;13544;13769;14150
+7;Horta - Guinardó;35;El Guinardó;14264;14600;14872
+7;Horta - Guinardó;36;La Font d'en Fargues;16728;17501;17528
+7;Horta - Guinardó;37;El Carmelo;10425;10713;10945
+7;Horta - Guinardó;38;La Teixonera;11625;11911;12191
+7;Horta - Guinardó;39;Sant Genís dels Agudells;12718;12570;13088
+7;Horta - Guinardó;40;Montbau;13793;13811;13977
+7;Horta - Guinardó;41;La Vall d'Hebrón;15645;16286;16525
+7;Horta - Guinardó;42;La Clota;12249;13653;13148
+7;Horta - Guinardó;43;Horta;13764;14086;14472
+8;Nou Barris;44;Vilapicina i La Torre Llobeta;13322;13586;13733
+8;Nou Barris;45;Porta;12087;12274;12384
+8;Nou Barris;46;Turó de la Peira;9957;10186;10275
+8;Nou Barris;47;Can Peguera;9047;9459;9626
+8;Nou Barris;48;La Guineueta;13441;13619;13919
+8;Nou Barris;49;Canyelles;12359;12752;12804
+8;Nou Barris;50;Les Roquetes;9087;9321;9538
+8;Nou Barris;51;Verdún;9907;10072;10228
+8;Nou Barris;52;La Prosperitat;11004;11129;11327
+8;Nou Barris;53;La Trinitat Nova;8344;8667;8900
+8;Nou Barris;54;Torre Baró;7715;7861;8144
+8;Nou Barris;55;Ciudad Meridiana;7692;7686;7777
+8;Nou Barris;56;Vallbona;8241;8446;8559
+9;Sant Andreu;57;La Trinitat Vella;8362;8646;8793
+9;Sant Andreu;58;Baró de Viver;8030;8504;8666
+9;Sant Andreu;59;El Buen Pastor;10593;10950;11192
+9;Sant Andreu;60;San Andrés;14431;14735;14984
+9;Sant Andreu;61;La Sagrera;13517;13865;14137
+9;Sant Andreu;62;Congrés i els Indians;13493;13753;14030
+9;Sant Andreu;63;Navas;13709;14124;14376
+10;Sant Martí;64;El Camp de l'Arpa del Clot;14206;14597;14847
+10;Sant Martí;65;El Clot;13763;14207;14413
+10;Sant Martí;66;El Parc i la Llacuna del Poblenou;14441;14797;15215
+10;Sant Martí;67;La Vila Olímpica del Poblenou;21724;21899;22193
+10;Sant Martí;68;Poble Nou;14556;14909;15401
+10;Sant Martí;69;Diagonal Mar i Front Marítim del Poblenou;16591;17060;17221
+10;Sant Martí;70;El Besòs i el Maresme;9230;9466;9620
+10;Sant Martí;71;Provençals del Poblenou;13131;13696;14030
+10;Sant Martí;72;Sant Martí de Provençals;12846;13145;13413
+10;Sant Martí;73;La Verneda i la Pau;11698;11987;12094
