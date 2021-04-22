@@ -1,0 +1,74 @@
+﻿NºBorough;Borough;Nº Neighbourhood;Neighbourhood;Latitude;Longitude;Population
+1;Ciutat Vella;1;El Raval;41.3795176;2.1683678;47353
+1;Ciutat Vella;2;Barrio Gótico;41.3833947;2.1769119;18629
+1;Ciutat Vella;3;La Barceloneta;41.3806533;2.1899274;14857
+1;Ciutat Vella;4;Sant Pere, Santa Caterina i la Ribera;41.3883219;2.1774107;22590
+2;Eixample;5;El Fort Pienc;41397866;2.181379;32349
+2;Eixample;6;Sagrada Familia;41.4034789;2.174410333;51385
+2;Eixample;7;La Derecha del Ensanche;41.39456;2.167998;43515
+2;Eixample;8;L'Antiga Esquerra de l'Eixample;41.39;2.155;42393
+2;Eixample;9;La Nova Esquerra de l'Eixample;41.383389;2.149;58032
+2;Eixample;10;Sant Antoni;41.3784116;2.1617677;38236
+3;Sants-Montjuïc;11;Poble Sec;41.3749795;2.1605721;39995
+3;Sants-Montjuïc;12;La Marina del Prat Vermell;41.3538419;2.1423184;1196
+3;Sants-Montjuïc;13;La Marina de Port;41.3602964;2.1375842;30958
+3;Sants-Montjuïc;14;La Font de la Guatlla;41.3707824;2.1446756;10265
+3;Sants-Montjuïc;15;Hostafrancs;41.3750877;2.1429334;16014
+3;Sants-Montjuïc;16;La Bordeta;41.3691417;2.1373733;19346
+3;Sants-Montjuïc;17;Sants-Badal;41.375466;2.1277096;24312
+3;Sants-Montjuïc;18;Sants;41.3753288;2.1349117;42005
+4;Les Corts;19;Les Corts;41.385244;2.1328626;46274
+4;Les Corts;20;La Maternitat i Sant Ramon;41.3820766;2.1254831;23836
+4;Les Corts;21;Pedralbes;41.3901401;2.112218;11864
+5;Sarrià-Sant Gervasi;22;Vallvidrera, el Tibidabo i les Planes;41.4150674;2.1074824;4698
+5;Sarrià-Sant Gervasi;23;Sarrià;41.399373;2.1215125;24901
+5;Sarrià-Sant Gervasi;24;Las Tres Torres;41.398636;2.130102;16591
+5;Sarrià-Sant Gervasi;25;Sant Gervasi-Bonanova;41.4059829;2.1334046;25919
+5;Sarrià-Sant Gervasi;26;Sant Gervasi-Galvany;41.397806849999995;2.143385388680909;47588
+5;Sarrià-Sant Gervasi;27;El Putxet i Farró;41.40731705;2.143424283829363;29563
+6;Gràcia;28;Vallcarca i els Penitents;41.4155257;2.1422431;15979
+6;Gràcia;29;El Coll;41.41867;2.148036;7459
+6;Gràcia;30;La Salut;41.411866;2.1539614;13347
+6;Gràcia;31;Vila de Gràcia;41.4031783;2.1571662;50102
+6;Gràcia;32;Camp d'en Grassot i Gràcia Nova;41.4045889;2.1667806;34911
+7;Horta - Guinardó;33;Baix Guinardó;41.4114374;2.1686512;25823
+7;Horta - Guinardó;34;Can Baró;41.4160925;2.1624018;9198
+7;Horta - Guinardó;35;El Guinardó;41.4177335;2.1736316;37047
+7;Horta - Guinardó;36;La Font d'en Fargues;41.425788;2.1659152;9481
+7;Horta - Guinardó;37;El Carmelo;41.42202;2.155973;32044
+7;Horta - Guinardó;38;La Teixonera;41.423173;2.1459698;11735
+7;Horta - Guinardó;39;Sant Genís dels Agudells;41.4264567;2.1374905;7241
+7;Horta - Guinardó;40;Montbau;41.4295504;2.1445379;5109
+7;Horta - Guinardó;41;La Vall d'Hebrón;41.4249128;2.1423965;5794
+7;Horta - Guinardó;42;La Clota;41.4278574;2.1524066;683
+7;Horta - Guinardó;43;Horta;41.4330206;2.1590883;27340
+8;Nou Barris;44;Vilapicina i La Torre Llobeta;41.4300186;2.1760694;25805
+8;Nou Barris;45;Porta;41.4331882;2.1760336;26446
+8;Nou Barris;46;Turó de la Peira;41.4323672;2.1690681;15710
+8;Nou Barris;47;Can Peguera;41.4348568;2.1657848;2288
+8;Nou Barris;48;La Guineueta;41.4403026;2.1704023;15361
+8;Nou Barris;49;Canyelles;41.443308;2.165594;6879
+8;Nou Barris;50;Les Roquetes;41.4477984;2.1762713;16156
+8;Nou Barris;51;Verdún;41.4440404;2.1758401;12531
+8;Nou Barris;52;La Prosperitat;41.4423335;2.1794381;26785
+8;Nou Barris;53;La Trinitat Nova;41.449185;2.182427;7591
+8;Nou Barris;54;Torre Baró;41.4580108;2.1839863;2914
+8;Nou Barris;55;Ciudad Meridiana;41.4517175;2.1887058;10798
+8;Nou Barris;56;Vallbona;41.4642;2.183723;1405
+9;Sant Andreu;57;La Trinitat Vella;41.4501759;2.1913441;10285
+9;Sant Andreu;58;Baró de Viver;41.4499467;2.1995389;2597
+9;Sant Andreu;59;El Buen Pastor;41.4347743;2.2046014505045797;13084
+9;Sant Andreu;60;San Andrés;41.438432;2.194625;57843
+9;Sant Andreu;61;La Sagrera;41.4237499;2.189582;29353
+9;Sant Andreu;62;Congrés i els Indians;41.423784;2.180821600067076;14483
+9;Sant Andreu;63;Navas;41.418463;2.185856;22176
+10;Sant Martí;64;El Camp de l'Arpa del Clot;41.4107542;2.1828156;38663
+10;Sant Martí;65;El Clot;41.4099525;2.1908234;27041
+10;Sant Martí;66;El Parc i la Llacuna del Poblenou;41.4007334;2.191342;15461
+10;Sant Martí;67;La Vila Olímpica del Poblenou;41.3898682;2.1968459;9261
+10;Sant Martí;68;Poble Nou;41.400527;2.2017292;33861
+10;Sant Martí;69;Diagonal Mar i Front Marítim del Poblenou;41.4052285;2.2133522;13501
+10;Sant Martí;70;El Besòs i el Maresme;41.4149787;2.2138765;24673
+10;Sant Martí;71;Provençals del Poblenou;41.4119484;2.2041249;21002
+10;Sant Martí;72;Sant Martí de Provençals;41.4165186;2.1989683;26061
+10;Sant Martí;73;La Verneda i la Pau;41.4232198;2.202940152045822;28791
